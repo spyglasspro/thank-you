@@ -13,6 +13,7 @@
     <script src="https://2-22-4-dot-lead-pages.appspot.com/static/lp918/min/jquery-1.9.1.min.js"></script>
     <script src="https://2-22-4-dot-lead-pages.appspot.com/static/lp918/min/html5shiv.js"></script>
     <link href="css.css" rel="stylesheet">
+    <link rel="icon" type="image/ico" href="favicon.ico"/>
 </head>
 <body>
 <div class="wrapper-1">
